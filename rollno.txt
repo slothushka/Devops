@@ -1,0 +1,6 @@
+Agamya = 1
+Anushka =2
+Sarika =3
+Jaykant =4
+Ishita =5
+Sujata =6
